@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Jonathan, currently serving as a Senior Software Engineering Manager at **MultiChoice**.
-I enjoy building robust Web Applications and using software engineering for the greater good.
+I'm Jonathan. Builder. Tinkerer.
 
 
 <!--
